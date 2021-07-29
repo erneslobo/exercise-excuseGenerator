@@ -1,0 +1,2 @@
+# exercise-excuseGenerator
+excuse Generator
